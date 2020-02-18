@@ -1,0 +1,17 @@
+com\selTestng\validations\Verifier.class
+com\selTestng\utility\Log.class
+com\selTextng\reporter\ExtentManager.class
+com\selTestng\pages\SignInPage.class
+com\selTestng\handlers\ConditionalWaitHandler.class
+com\selTestng\pages\HomePage.class
+com\selTestng\utility\JsonReader.class
+com\selTestng\handlers\AlertHandler.class
+com\selTestng\utility\Config.class
+com\selTestng\handlers\FrameHandler.class
+com\selTestng\handlers\DropDownHandler.class
+com\selTestng\handlers\WindowHandler.class
+com\selTestng\init\TestSetup.class
+com\selTestng\tests\SignInTest.class
+com\selTestng\pages\ProductPage.class
+com\selTestng\utility\ExcelReader.class
+com\selTestng\pages\ProductsPage.class
