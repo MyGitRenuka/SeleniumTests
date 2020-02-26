@@ -1,31 +1,24 @@
-2020-02-18 20:02:599 INFO  TestSetup:52 - ######################### Test execution started #########################
-2020-02-18 20:02:879 INFO  TestSetup:54 - Extent report instance created
-2020-02-18 20:02:276 INFO  TestSetup:133 - Wait time unit successfully set to seconds
-2020-02-18 20:02:288 INFO  TestSetup:166 - chrome driver initialized with implicit wait time [80] seconds
-2020-02-18 20:02:292 INFO  TestSetup:173 - chrome driver initialized with page load time [120] seconds
-2020-02-18 20:02:942 INFO  TestSetup:179 - Deleted all cookies
-2020-02-18 20:02:958 INFO  TestSetup:142 - Successfully initialised the webdriver
-2020-02-18 20:02:989 INFO  TestSetup:222 - Reading data from excel data file: src/test/resources/testData/LoginTestData.xlsx
-2020-02-18 20:02:889 INFO  SignInTest:30 - Sign in option present
-2020-02-18 20:02:628 INFO  SignInTest:33 - Navigated to sign in page
-2020-02-18 20:02:986 INFO  SignInTest:37 - Email entered successfully
-2020-02-18 20:02:276 INFO  SignInTest:40 - Password entered successfully
-2020-02-18 20:02:880 INFO  SignInTest:43 - Sign in submitted successfully
-2020-02-18 20:02:588 INFO  TestSetup:151 - Creating Web driver wait object with explicit wait timeout of [100] seconds
-2020-02-18 20:02:469 INFO  TestSetup:86 - After method............................................
-
-2020-02-18 20:02:469 INFO  TestSetup:87 - TEST || verifySignIn || STATUS 1
-2020-02-18 20:02:477 INFO  TestSetup:96 - Test Passed condition in after method...
-2020-02-18 20:02:477 INFO  TestSetup:104 - **************verifySignInFinished***************
-2020-02-18 20:02:662 INFO  SignInTest:30 - Sign in option present
-2020-02-18 20:02:891 INFO  SignInTest:33 - Navigated to sign in page
-2020-02-18 20:02:883 INFO  SignInTest:37 - Email entered successfully
-2020-02-18 20:02:106 INFO  SignInTest:40 - Password entered successfully
-2020-02-18 20:02:604 INFO  SignInTest:43 - Sign in submitted successfully
-2020-02-18 20:02:166 INFO  TestSetup:151 - Creating Web driver wait object with explicit wait timeout of [100] seconds
-2020-02-18 20:02:809 INFO  TestSetup:86 - After method............................................
-
-2020-02-18 20:02:809 INFO  TestSetup:87 - TEST || verifySignIn || STATUS 1
-2020-02-18 20:02:813 INFO  TestSetup:96 - Test Passed condition in after method...
-2020-02-18 20:02:813 INFO  TestSetup:104 - **************verifySignInFinished***************
-2020-02-18 20:02:260 INFO  TestSetup:113 - ############# Test execution completed and all browser windows closed ############
+2020-02-26 15:02:179 INFO  TestInit:62 - ######################### Test execution started #########################
+2020-02-26 15:02:395 INFO  TestInit:64 - Extent report instance created
+2020-02-26 15:02:257 INFO  TestInit:162 - Wait time unit successfully set to seconds
+2020-02-26 15:02:288 INFO  TestInit:195 - chrome driver initialized with implicit wait time [80] seconds
+2020-02-26 15:02:303 INFO  TestInit:202 - chrome driver initialized with page load time [120] seconds
+2020-02-26 15:02:341 INFO  TestInit:208 - Deleted all cookies
+2020-02-26 15:02:342 INFO  TestInit:171 - Successfully initialised the webdriver for browser chrome
+2020-02-26 15:02:369 INFO  TestInit:251 - Reading data from excel data file: src/test/resources/testData/LoginTestData.xlsx
+2020-02-26 15:02:892 INFO  TestInit:121 - TEST || verifySignIn || STATUS || 1
+2020-02-26 15:02:893 INFO  TestInit:133 - **************verifySignInFinished***************
+2020-02-26 15:02:142 INFO  TestInit:121 - TEST || verifySignIn || STATUS || 1
+2020-02-26 15:02:143 INFO  TestInit:133 - **************verifySignInFinished***************
+2020-02-26 15:02:906 INFO  TestInit:142 - ############# Test execution completed and all browser windows closed ############
+2020-02-26 15:02:883 INFO  TestInit:162 - Wait time unit successfully set to seconds
+2020-02-26 15:02:886 INFO  TestInit:195 - IE driver initialized with implicit wait time [80] seconds
+2020-02-26 15:02:917 INFO  TestInit:202 - IE driver initialized with page load time [120] seconds
+2020-02-26 15:02:996 INFO  TestInit:208 - Deleted all cookies
+2020-02-26 15:02:996 INFO  TestInit:171 - Successfully initialised the webdriver for browser IE
+2020-02-26 15:02:996 INFO  TestInit:251 - Reading data from excel data file: src/test/resources/testData/LoginTestData.xlsx
+2020-02-26 15:02:158 INFO  TestInit:121 - TEST || verifySignIn || STATUS || 1
+2020-02-26 15:02:158 INFO  TestInit:133 - **************verifySignInFinished***************
+2020-02-26 15:02:544 INFO  TestInit:121 - TEST || verifySignIn || STATUS || 1
+2020-02-26 15:02:544 INFO  TestInit:133 - **************verifySignInFinished***************
+2020-02-26 15:02:68 INFO  TestInit:142 - ############# Test execution completed and all browser windows closed ############

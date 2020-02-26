@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="BDD Test Suite">
-    <test name="Regression Test" preserve-order="true">
+<suite name="Selenium Test Suite">
+    <test name="Firefox run" preserve-order="true">
+    <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="com.selTestng.tests.SignInTest" />
+        </classes>
+    </test>
+    <test name="IE run" preserve-order="true">
+    <parameter name="browser" value="IE" />
         <classes>
             <class name="com.selTestng.tests.SignInTest" />
         </classes>
